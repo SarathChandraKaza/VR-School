@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroPage.unity
+    guid: ff00b4dd3a6a6b0498cfbac982214675
+  - enabled: 1
+    path: Assets/Scenes/Index_Page.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/solar system.unity
+    guid: b2fba5d2aa45c694e9bd3b7d832d2665
+  - enabled: 1
+    path: Assets/Scenes/0. Sun.unity
+    guid: af4bc61b1e5fb7242b7aa9cfd8ca7500
+  - enabled: 1
+    path: Assets/Scenes/1. Mercury.unity
+    guid: 13d2e710b4319c3438365633693b800e
+  - enabled: 1
+    path: Assets/Scenes/2.Venus.unity
+    guid: e87dc0e94560d08449d2deb87edc748f
+  - enabled: 1
+    path: Assets/Scenes/3.Earth.unity
+    guid: c32124fc33829c84c92203f452e1957a
+  - enabled: 1
+    path: Assets/Scenes/4.Mars.unity
+    guid: b27ce0ca05fcd534b987a633ff483017
+  - enabled: 1
+    path: Assets/Scenes/5.Jupiter.unity
+    guid: 51733b0b02b65904aa016dde1dcccb1e
+  - enabled: 1
+    path: Assets/Scenes/6. Saturn.unity
+    guid: 1a23cdc9e8935584e941d6c9fbae7116
+  - enabled: 1
+    path: Assets/Scenes/7.Uranus.unity
+    guid: c8278293ce63be14382ac74bca9fe64d
+  - enabled: 1
+    path: Assets/Scenes/8.Neptune.unity
+    guid: 01ce8e12275b8c041b13f65f9cedad99
+  - enabled: 1
+    path: Assets/Scenes/9.Pluto.unity
+    guid: ca1ceb8e8d55acd43bf97f3d52c5dd7d
+  - enabled: 1
+    path: Assets/Scenes/Atoms_1LOD.unity
+    guid: 8431bf585b657f54893807e23b367d0a
+  - enabled: 1
+    path: Assets/Scenes/Atoms_2.unity
+    guid: 6810193620c1aea46a4cfb2ad3ea8246
+  - enabled: 1
+    path: Assets/Scenes/Recommendation Page.unity
+    guid: 53ce1c22ac72d2942985e2bf4eab1955
+  - enabled: 1
+    path: Assets/Scenes/ChemicalBonding.unity
+    guid: c6a614ba4cd7ea04d897ca4b219d19e6
+  - enabled: 1
+    path: Assets/Scenes/Bio_Food_Chain.unity
+    guid: aa3099c1053424749969e003930ee8ea
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: af322088346b78d419c041cb37241284, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4360e6656f708f54d84ca53572d70d1c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 46ade5fd447b7f04d9855a712077f40c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5fdf45112abc4a84b9648123920c891b, type: 2}
