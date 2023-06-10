@@ -1,0 +1,632 @@
+ID,Chapter Name,Class,Subject,Sub Subject
+1,Solar System,9,Social,Geography
+2,Atoms and Molecules,9,Science,Chemistry
+3,Heat,7,Science,Physics
+4,Electricity,10,Science,Physics
+5,Nutrition in plants,7,Science,Biology
+6,Nutrition in animals,7,Science,BIology
+7,Acids & Bases & Salts,10,Science,Chemistry
+8,Soil,7,Science,Chemistry
+9,Reproduction in plants,7,Science,Biology
+10,Light,7,Science,Physics
+11,Crop Prouduction and Management,8,Science,Chemistry
+12,Microorganisms,8,Science,Chemistry
+13,Synthetic Fibres and Plastics,8,Science,Chemistry
+14,Coal and Petroleum,8,Science,Chemistry
+15,Metals and Non metals,10,Science,Chemistry
+16,Combustion and flame,8,Science,Chemistry
+17,Conservation of plants and animals,8,Science,Biology
+18,Structure and functions of Cell,8,Science,Biology
+19,Reproduction,12,Science,Biology
+20,Reaching the age of adolescence,8,Science,Biology
+21,Tissues,9,Science,Biology
+22,Work & Energy & Power,11,Science,Physics
+23,Sound,9,Science,Physics
+24,Natural Resources,9,Science,Chemistry
+25,Chemical Reactions and Equations,10,Science,Chemistry
+26,Carbon and its compounds,10,Science,Chemistry
+27,Periodic Classification of Elements,11,Science,Chemistry
+28,Life Processes,10,Science,Biology
+29,Control and Coordination,10,Science,Biology
+30,Heredity and Evolution,12,Science,Biology
+31,Light - Reflection and Refraction,10,Science,Physics
+32,Human Eye and the colourful world,10,Science,Physics
+33,Magnetic effects of electric current,10,Science,Physics
+34,Sources of energy,10,Science,Physics
+35,Our environment ,10,Science,Physics
+36,Sustainable management of natural resources,10,Science,Physics
+37,Structure of Atom,11,Science,Chemistry
+38,Chemical Bonding,11,Science,Chemistry
+39,States of Matter,11,Science,Chemistry
+40,Thermodynamics,11,Science,Chemistry
+41,Equilibrium,11,Science,Chemistry
+42,Diversity in living world,11,Science,Biology
+43,Structural organisation in plants and animals,11,Science,Biology
+44,Plant Physiology,11,Science,Biology
+45,Human Physiology,11,Science,Biology
+46,Physical World,11,Science,Physics
+47,Units and Measurement,11,Science,Physics
+48,Motion in a straight line,11,Science,Physics
+49,Motion in a plane,11,Science,Physics
+50,Laws of motion,11,Science,Physics
+51,System of particles and rotational motion,11,Science,Physics
+52,Gravitation,11,Science,Physics
+53,Redox Reactions,11,Science,Chemistry
+54,Hydrogen,11,Science,Chemistry
+55,s Block Elements,11,Science,Chemistry
+56,p Block Elements,11,Science,Chemistry
+57,Organic Chemistry,11,Science,Chemistry
+58,Hydrocarbons,11,Science,Chemistry
+59,Environmental Chemistry,11,Science,Chemistry
+60,Mechanical Properties of Solids,11,Science,Physics
+61,Mechanical Properties of liquids,11,Science,Physics
+62,Thermal Properties of Matter,11,Science,Physics
+63,Kinetic Theory,11,Science,Physics
+64,Oscillations,11,Science,Physics
+65,Waves,11,Science,Physics
+66,Electric Charges and Fields,12,Science,Physics
+67,Electrostatic Potential and Capacitance,12,Science,Physics
+68,Current Electricity,12,Science,Physics
+69,Moving charges and magnetism,12,Science,Physics
+70,Magnetism and Matter,12,Science,Physics
+71,Electromagnetic Induction,12,Science,Physics
+72,Alternating Current,12,Science,Physics
+73,Electromagnetic Waves,12,Science,Physics
+74,Ray Optics,12,Science,Physics
+75,Optical Instruments,12,Science,Physics
+76,Wave Optics,12,Science,Physics
+77,Dual Nature of Radiation and Matter,12,Science,Physics
+78,Nuclei,12,Science,Physics
+79,Semiconductor Electronics,12,Science,Physics
+80,Biology in Human Welfare,12,Science,Biology
+81,Bio Technology,12,Science,Biology
+82,Ecology,12,Science,Biology
+83,Solid State,12,Science,Chemistry
+84,Solutions,12,Science,Chemistry
+85,Electrochemistry,12,Science,Chemistry
+86,Chemical Kinetics,12,Science,Chemistry
+87,Surface Chemistry,12,Science,Chemistry
+88,d Block Elements,12,Science,Chemistry
+89,f Block Elements,12,Science,Chemistry
+90,Coordination Compounds,12,Science,Chemistry
+91,Equality in Indian Democracy,7,Social,Politics
+92,State Government,7,Social,Politics
+93,Gender,7,Social,Politics
+94,Media,7,Social,Politics
+95,Markets,7,Social,Economics
+96,New Kings and Kingdoms,7,Social,History
+97,Delhi Sultans,7,Social,History
+98,Mughal Empire,7,Social,History
+99,Rulers and Buildings,7,Social,History
+100,Towns & Traders & Craftspersons,7,Social,History
+101,Tribes & Nomads & Settled Communities,7,Social,History
+102,Devotional Paths to the divine,7,Social,History
+103,Making of Regional Cultures,7,Social,History
+104,Eighteenth Century Political Formations,7,Social,History
+105,Resources,8,Social,Geography
+106,Natural Vegetation and wildlife resources,8,Social,Geography
+107,Mineral and power resources,8,Social,Geography
+108,Agriculture,8,Social,Geography
+109,Industries,8,Social,Geography
+110,Human Resources,8,Social,Geography
+111,Indian Constituition and Secularism,8,Social,Politics
+112,Parliament and Making of Laws,8,Social,Politics
+113,The Judiciary,8,Social,Politics
+114,Social Justice and The Marginalised,8,Social,Politics
+115,Economic Presence of the Government,8,Social,Politics
+116,From Trade to Territory,8,Social,History
+117,Ruling the Countryside,8,Social,History
+118,Tribals & Dikus & Vision of a Golden Age,8,Social,History
+119,When People Rebel,8,Social,History
+120,Weavers & Iron Smelters & Factory Owners,8,Social,History
+121,Civilising the native & Educating the Nation,8,Social,History
+122,Women & Caste and Reform,8,Social,History
+123,The Making of the National Movement,8,Social,History
+124,India After Independence,8,Social,History
+125,What is Democracy? Why Democracy?,9,Social,Politics
+126,CONSTITUTIONAL DESIGN,9,Social,Politics
+127,ELECTORAL POLITICS,9,Social,Politics
+128,WORKING OF INSTITUTIONS ,9,Social,Politics
+129,DEMOCRATIC RIGHTS,9,Social,Politics
+130,India - Size and Location,9,Social,Geography
+131,Physical Features of India,9,Social,Geography
+132,Drainage ,9,Social,Geography
+133,Climate,9,Social,Geography
+134,Natural Vegetation and Wildlife of India,9,Social,Geography
+135,Population,9,Social,Geography
+136,Natural Vegetation and Wildlife ,9,Social,Economics
+137,People as Resource,9,Social,Economics
+138,Poverty as a challenge,9,Social,Economics
+139,Food Security in India,9,Social,Economics
+140,French Revolution,9,Social,History
+141,Pastoralists in the modern world,9,Social,History
+142,Forest Society and Colonialism,9,Social,History
+143,Nazism and the rise of Hitler,9,Social,History
+144,Socialism in Europe and Russian Revolution,9,Social,History
+145,Resources and Development,10,Social,Geography
+146,Forest and Wildlife Resources,10,Social,Geography
+147,Water Resources,10,Social,Geography
+148,Minerals and energy Resources,10,Social,Geography
+149,Manufacturing Industries,10,Social,Geography
+150,Lifelines of National Economy,10,Social,Geography
+151,Rise of Nationalism in Europe,10,Social,History
+152,Nationalism in India,10,Social,History
+153,The Making of a Global World,10,Social,History
+154,The Age of Industrialisation,10,Social,History
+155,Print Culture and the Modern World,10,Social,History
+156,DEVELOPMENT,10,Social,Economics
+157,Sectors of Indian Economy,10,Social,Economics
+158,Money and Credit,10,Social,Economics
+159,GLOBALISATION AND THE INDIAN ECONOMY,10,Social,Economics
+160,CONSUMER RIGHTS,10,Social,Economics
+161,Power Sharing,10,Social,Politics
+162,Federalism,10,Social,Politics
+163,Democracy and Diversity,10,Social,Politics
+164,Gender & Religion & Caste,10,Social,Politics
+165,Popular struggles amd Movements,10,Social,Politics
+166,Political Parties,10,Social,Politics
+167,Outcomes of democracy,10,Social,Politics
+168,Challenges to democracy,10,Social,Politics
+169,Geography as a Discipline,11,Social,Geography
+170,The Origin and Evolution of the Earth,11,Social,Geography
+171,Interior of the Earth,11,Social,Geography
+172,Distribution of Oceans and Continents,11,Social,Geography
+173,Minerals and Rocks,11,Social,Geography
+174,Geomorphic Processes,11,Social,Geography
+175,Landforms and their Evolution,11,Social,Geography
+176,Composition and Structure of Atmosphere,11,Social,Geography
+177,Solar Radiation & Heat Balance & Temperature,11,Social,Geography
+178,Atmospheric Circulation and Weather Systems,11,Social,Geography
+179,Water in the Atmosphere,11,Social,Geography
+180,World Climate and Climate Change,11,Social,Geography
+181,Water (Oceans),11,Social,Geography
+182,Movements of Ocean Water,11,Social,Geography
+183,Life on the Earth,11,Social,Geography
+184,Biodiversity and Conservation,11,Social,Geography
+185,INDIAN ECONOMY ON THE EVE OF INDEPENDENCE,11,Social,Economics
+186,THE GOALS OF FIVE YEAR PLANS,11,Social,Economics
+187,LIBERALISATION & PRIVATISATION & GLOBALISATION : AN APPRAISA,11,Social,Economics
+188,HUMAN CAPITAL FORMATION IN INDIA,11,Social,Economics
+189,RURAL DEVELOPMENT,11,Social,Economics
+190,EMPLOYMENT: GROWTH & INFORMALISATION & OTHER ISSUES ,11,Social,Economics
+191,INFRASTRUCTURE,11,Social,Economics
+192,ENVIRONMENT AND SUSTAINABLE DEVELOPMENT,11,Social,Economics
+193,COMPARATIVE DEVELOPMENT EXPERIENCES OF 181 INDIA AND ITS NEIGHBOURS,11,Social,Economics
+194,Political Theory: An Introduction,11,Social,Politics
+195,Freedom,11,Social,Politics
+196,Rights,11,Social,Politics
+197,Citizenship,11,Social,Politics
+198,Secularism,11,Social,Politics
+199,"Peace",11,Social,Politics
+200,Development,11,Social,Politics
+201,EARLY SOCIETIES,11,Social,History
+202,EMPIRES,11,Social,History
+203,"CHANGING TRADITIONS",11,Social,History
+204,TOWARDS MODERNISATION,11,Social,History
+205,The Harappan Civilisation,12,Social,History
+206,"KINGS & FARMERS & TOWNS
+Early States and Economies",12,Social,History
+207,"KINSHI & CASTE & CLASS
+Early Societies",12,Social,History
+208,"Cultural Developments",12,Social,History
+209,Perceptions of Society,12,Social,History
+210,Changes in Religious Beliefs and Devotional Texts,12,Social,History
+211,"AN IMPERIAL CAPITAL: VIJAYANAGARA",12,Social,History
+212,"Agrarian Society and the Mughal Empire",12,Social,History
+213,The Mughal Courts,12,Social,History
+214,"COLONIALISM AND THE COUNTRYSIDE:
+Exploring Official Archives",12,Social,History
+215,"REBELS AND THE RAJ:
+1857 Revolt and its Representations",12,Social,History
+216,"COLONIAL CITIES:
+Urbanisation, Planning and Architecture",12,Social,History
+217,"MAHATMA GANDHI AND THE
+NATIONALIST MOVEMENT:
+Civil Disobedience and Beyond",12,Social,History
+218,"UNDERSTANDING PARTITION:
+Politics, Memories, Experiences",12,Social,History
+219,"FRAMING THE CONSTITUTION:
+The Beginning of a New Era",12,Social,History
+220,Human Geography Nature and Scope,12,Social,Geography
+221,"The World Population
+Distribution, Density and Growth",12,Social,Geography
+222,Population Composition,12,Social,Geography
+223,Human Development,12,Social,Geography
+224,Primary Activities,12,Social,Geography
+225,Secondary Activities,12,Social,Geography
+226,Tertiary and Quaternary Activities,12,Social,Geography
+227,Transport and Communication,12,Social,Geography
+228,International Trade,12,Social,Geography
+229,Human Settlements,12,Social,Geography
+230,Population : Distribution & Density & Growth and Composition 1,12,Social,Geography
+231,Migration : Types & Causes & Consequences,12,Social,Geography
+232,Human Development,12,Social,Geography
+233,Land Resources and Agriculture,12,Social,Geography
+234,Water Resources,12,Social,Geography
+235,Mineral and Energy Resources,12,Social,Geography
+236,Manufacturing Industries,12,Social,Geography
+237,Planning and Sustainable Development in Indian Context 1,12,Social,Geography
+238,Transport and Communication,12,Social,Geography
+239,International Trade,12,Social,Geography
+240,Geographical Perspective on Selected Issues and Problems,12,Social,Geography
+241,The Cold War Era,12,Social,Politics
+242,The End of Bipolarity,12,Social,Politics
+243,US Hegemony in World Politics,12,Social,Politics
+244,Alternative Centres of Power,12,Social,Politics
+245,Contemporary South Asia ,12,Social,Politics
+246,International Organisations,12,Social,Politics
+247,Security in the Contemporary World,12,Social,Politics
+248,Environment and Natural Resources,12,Social,Politics
+249,Globalisation,12,Social,Politics
+250,Challenges of Nation Building,12,Social,Politics
+251,Era of One-Party Dominance,12,Social,Politics
+252,Politics of planned development,12,Social,Politics
+253,India's external relations,12,Social,Politics
+254,Challenges to and restoration of congress system,12,Social,Politics
+255,The crisis of democratic order,12,Social,Politics
+256,Rise of popular movements,12,Social,Politics
+257,Regional Aspirations,12,Social,Politics
+258,Recent developments in Indian Politics,12,Social,Politics
+259,THEORY OF CONSUMER BEHAVIOUR,12,Social,Economics
+260,PRODUCTION AND COSTS,12,Social,Economics
+261,THE THEORY OF THE FIRM UNDER PERFECT COMPETITION,12,Social,Economics
+262,MARKET EQUILIBRIUM,12,Social,Economics
+263,NON-COMPETITIVE MARKETS,12,Social,Economics
+264,NATIONAL INCOME ACCOUNTING,12,Social,Economics
+265,MONEY AND BANKING,12,Social,Economics
+266,DETERMINATION OF INCOME AND EMPLOYMENT,12,Social,Economics
+267,GOVERNMENT BUDGET AND THE ECONOMY ,12,Social,Economics
+268,OPEN ECONOMY MACROECONOMICS,12,Social,Economics
+269,KNOWING OUR NUMBERS,6,Maths,NumberSystem
+270,WHOLE NUMBERS,6,Maths,NumberSystem
+271,PLAYING WITH NUMBERS,6,Maths,NumberSystem
+272,BASIC GEOMETRICAL IDEAS,6,Maths,Geometry
+273,UNDERSTANDING ELEMENTARY SHAPES,6,Maths,Geometry
+274,INTEGERS,6,Maths,Number System
+275,FRACTIONS,6,Maths,NumberSystem
+276,DECIMALS,6,Maths,Number System
+277,DATA HANDLING,6,Maths,Number System
+278,MENSURATION,6,Maths,Number System
+279,ALGEBRA,6,Maths,Algebra
+280,RATIO AND PROPORTION,6,Maths,Number System
+281,SYMMETRY,6,Maths,Number System
+282,PRACTICAL GEOMETRY,6,Maths,Geometry
+283,Simple Equations,7,Maths,Algebra
+284,Lines and Angles ,7,Maths,Geometry
+285,The Triangle and its Properties,7,Maths,Geometry
+286,Congruence of Triangles ,7,Maths,Geometry
+287,Comparing Quantities,7,Maths,Algebra
+288,Rational Numbers,7,Maths,Number System
+289,Perimeter and Area ,7,Maths,Geometry
+290,Algebraic Expressions ,7,Maths,Algebra
+291,Exponents and Powers,7,Maths,Algebra
+292,Symmetry,7,Maths,Geometry
+293,Visualising Solid Shapes ,7,Maths,Geometry
+294,Linear Equations in One Variable,8,Maths,Algebra
+295,Understanding Quadrilaterals,8,Maths,Geometry
+296,Squares and Square Roots ,8,Maths,Algebra
+297,Cubes and Cube Roots,8,Maths,Algebra
+298,Algebraic Expressions and Identities,8,Maths,Algebra
+299,Exponents and Powers,8,Maths,Algebra
+300,Direct and Inverse Proportions,8,Maths,Algebra
+301,Factorisation,8,Maths,Algebra
+302,Introduction to Graphs,8,Maths,Geometry
+303,Playing with Numbers,8,Maths,Number System
+304,NUMBER SYSTEMS,9,Maths,Number System
+305,POLYNOMIALS,9,Maths,Algebra
+306,COORDINATE GEOMETRY,9,Maths,Geometry
+307,LINEAR EQUATIONS IN TWO VARIABLES,9,Maths,Algebra
+308,INTRODUCTION TO EUCLIDS GEOMETRY,9,Maths,Geometry
+309,LINES AND ANGLES,9,Maths,Geometry
+310,TRIANGLES ,9,Maths,Geometry
+311,QUADRILATERALS ,9,Maths,Geometry
+312,AREAS OF PARALLELOGRAMS AND TRIANGLES,9,Maths,Geometry
+313,CIRCLES,9,Maths,Geometry
+314,CONSTRUCTIONS,9,Maths,Geometry
+315,HERONS FORMULA,9,Maths,Geometry
+316,SURFACE AREAS AND VOLUMES,9,Maths,Geometry
+317,STATISTICS,9,Maths,Probability
+318,PROBABILITY,9,Maths,Probabilty
+319,PROOFS IN MATHEMATICS,9,Maths,Number System
+320,INTRODUCTION TO MATHEMATICAL MODELLING,9,Maths,Number System
+321,Real Numbers,10,Maths,Number System
+322,Pair of Linear Equations in Two Variables,10,Maths,Algebra
+323,Quadratic Equations,10,Maths,Algebra
+324,Arithmetic Progressions,10,Maths,Algebra
+325,Triangles,10,Maths,Geometry
+326,Coordinate Geometry,10,Maths,Geometry
+327,Introduction to Trigonometry,10,Maths,Trigonometry
+328,Some Applications of Trigonometry,10,Maths,Trigonometry
+329,Areas Related to Circles,10,Maths,Geometry
+330,Statistics,10,Maths,Probability
+331,Proofs in Mathematics,10,Maths,Number System
+332,Mathematical Modelling,10,Maths,Number System
+333,Sets,11,Maths,Number System
+334,Relations and Functions,11,Maths,Number System
+335,Trigonometric Functions,11,Maths,Trigonometry
+336,Principle of Mathematical Induction,11,Maths,Number System
+337,Complex Numbers and Quadratic Equations,11,Maths,Algebra
+338,Linear Inequalities,11,Maths,Algebra
+339,Permutations and Combinations ,11,Maths,Probabilty
+340,Binomial Theorem,11,Maths,Algebra
+341,Sequences and Series ,11,Maths,Number System
+342,Straight Lines,11,Maths,Geometry
+343,Conic Sections,11,Maths,Geometry
+344,Introduction to Three Dimensional Geometry,11,Maths,Geometry
+345,Limits and Derivatives,11,Maths,Geometry
+346,Mathematical Reasoning,11,Maths,Number System
+347,Relations and Functions,12,Maths,Number System
+348,Inverse Trigonometric Functions,12,Maths,Trigonometry
+349,Matrices,12,Maths,Number System
+350,Determinants,12,Maths,Number System
+351,Continuity and Differentiability,12,Maths,Number System
+352,Application of Derivatives,12,Maths,Number System
+353,Integrals,12,Maths,Number System
+354,Application of integrals,12,Maths,Number System
+355,Differential Equations,12,Maths,Number System
+356,Vector Algebra,12,Maths,Algebra
+357,Three Dimensional Geometry,12,Maths,Geometry
+358,Linear Programming,12,Maths,Algebra
+359,A Tale of Two Birds,6,English,NA
+360,The Friendly Mongoose,6,English,NA
+361,The Shepherds Treasure,6,English,NA
+362,The Old-Clock Shop,6,English,NA
+363,Tansen,6,English,NA
+364,The Monkey and the Crocodile,6,English,NA
+365,The Wonder Called Sleep,6,English,NA
+366,A Pact with the Sun,6,English,NA
+367,What Happened to the Reptiles,6,English,NA
+368,A Strange Wrestling Match,6,English,NA
+369,Three Questions,7,English,NA
+370,A Gift of Chappals,7,English,NA
+371,The Squirrel,7,English,NA
+372,Gopal and the Hilsa Fish,7,English,NA
+373,The Shed,7,English,NA
+374,The Ashes That Made Trees Bloom ,7,English,NA
+375,Quality,7,English,NA
+376,Expert Detectives .,7,English,NA
+377,Chivvy .,7,English,NA
+378,Trees,7,English,NA
+379,Mystery of the Talking Fan,7,English,NA
+380,The Invention of Vita-Wonk,7,English,NA
+381,Dad and the Cat and the Tree,7,English,NA
+382,Meadow Surprises,7,English,NA
+383,Fire: Friend and Foe,7,English,NA
+384,A Bicycle in Good Repair,7,English,NA
+385,Garden Snake,7,English,NA
+386,The Story of Cricket,7,English,NA
+387,"The Best Christmas Present
+in the World",8,English,NA
+388,The Ant and the Cricket,8,English,NA
+389,The Tsunami,8,English,NA
+390,Geography Lesson,8,English,NA
+391,Glimpses of the Past,8,English,NA
+392,Macavity : The Mystery Cat,8,English,NA
+393,Bepin Choudhurys Lapse of Memory,8,English,NA
+394,The Last Bargain,8,English,NA
+395,The Summit Within ,8,English,NA
+396,The School Boy ,8,English,NA
+397,This is Jodys Fawn,8,English,NA
+398,A Visit to Cambridge,8,English,NA
+399,When I set out for Lyonnesse,8,English,NA
+400,A Short Monsoon Diary ,8,English,NA
+401,On the Grasshopper and Cricket,8,English,NA
+402,The Great Stone Face,8,English,NA
+403,The Great Stone Face,8,English,NA
+404,The Fun They Had,9,English,NA
+405,The Road Not Taken,9,English,NA
+406,The Sound of Music,9,English,NA
+407,The Little Girl .,9,English,NA
+408,Rain on the Roof,9,English,NA
+409,A Truly Beautiful Mind,9,English,NA
+410,The Snake and the Mirror,9,English,NA
+411,A Legend of the Northland,9,English,NA
+412,My Childhood,9,English,NA
+413,No Men Are Foreign,9,English,NA
+414,Packing,9,English,NA
+415,The Duck and the Kangaroo,9,English,NA
+416,Reach for the Top,9,English,NA
+417,On Killing a Tree,9,English,NA
+418,The Bond of Love,9,English,NA
+419,The Snake Trying,9,English,NA
+420,Kathmandu,9,English,NA
+421,A Slumber Did My Spirit Seal .,9,English,NA
+422,Health and Diseases,9,Physical Education,NA
+423,Growing up with Confidence,9,Physical Education,NA
+424,Physical Education,9,Physical Education,NA
+425,Physical Fitness,9,Physical Education,NA
+426,Sports Training,9,Physical Education,NA
+427,Individual Sports,9,Physical Education,NA
+428,Team Games ,9,Physical Education,NA
+429,Ethics in Sports ,9,Physical Education,NA
+430,Personality Development through Yoga,9,Physical Education,NA
+431,Waste Management,9,Physical Education,NA
+432,Diet for Healthy Living,9,Physical Education,NA
+433,First Aid and Safety,9,Physical Education,NA
+434,Social Health,9,Physical Education,NA
+435,Adolescent Friendly Health Services,9,Physical Education,NA
+436,The Tale of Custard the Dragon 1,10,English,NA
+437,Nelson Mandela: Long Walk to Freedom,10,English,NA
+438,A Tiger in the Zoo,10,English,NA
+439,Two Stories about Flying,10,English,NA
+440,How to Tell Wild Animals,10,English,NA
+441,From the Diary of Anne Frank,10,English,NA
+442,The Hundred Dresses,10,English,NA
+443,The Hundred Dresses,10,English,NA
+444,Glimpses of India,10,English,NA
+445,Mijbil the Otter,10,English,NA
+446,Madam Rides the Bus,10,English,NA
+447,The Sermon at Benares,10,English,NA
+448,The Proposal,10,English,NA
+449,Physical Education:Relation with other Subjects,10,Physical Education,NA
+450,"Effects of Physical Activities
+ on Human Body",10,Physical Education,NA
+451,"Growth and Development
+ during Adolescence",10,Physical Education,NA
+452,Individual Games and Sports I,10,Physical Education,NA
+453,Individual Games and Sports II,10,Physical Education,NA
+454,Team Games and Sports I,10,Physical Education,NA
+455,Team Games and Sports II,10,Physical Education,NA
+456,Yoga for Healthy Living,10,Physical Education,NA
+457,Dietary Considerations and Food Quality,10,Physical Education,NA
+458,Safety Measures for Healthy Living,10,Physical Education,NA
+459,Healthy Community Living,10,Physical Education,NA
+460,Social Health,10,Physical Education,NA
+461,"Agencies and Awards Promoting Health, Sports and Yoga",10,Physical Education,NA
+462,Introduction to Accounting,11,Accountancy,NA
+463,Theory Base of Accounting,11,Accountancy,NA
+464,Recording of Transactions - I,11,Accountancy,NA
+465,Recording of Transactions - II,11,Accountancy,NA
+466,Bank Reconciliation Statement,11,Accountancy,NA
+467,Trial Balance and Rectification of Errors ,11,Accountancy,NA
+468,Depreciation & Provisions and Reserves,11,Accountancy,NA
+469,Bill of Exchange,11,Accountancy,NA
+470,What is Psychology?,11,Psychology,NA
+471,Methods of Enquiry in Psychology,11,Psychology,NA
+472,The Bases of Human Behaviour,11,Psychology,NA
+473,Human Development,11,Psychology,NA
+474,Sensory & Attentional and Perceptual Processes,11,Psychology,NA
+475,Learning,11,Psychology,NA
+476,Human Memory,11,Psychology,NA
+477,Thinking,11,Psychology,NA
+478,Motivation and Emotion,11,Psychology,NA
+479,INDIAN ECONOMY ON THE EVE OF INDEPENDENCE,11,Economics,NA
+480,INDIAN ECONOMY 1950-1990,11,Economics,NA
+481,LIBERALISATION & PRIVATISATION & GLOBALISATION : AN APPRAISAL,11,Economics,NA
+482,Poverty,11,Economics,NA
+483,HUMAN CAPITAL FORMATION IN INDIA,11,Economics,NA
+484,RURAL DEVELOPMENT,11,Economics,NA
+485,"EMPLOYMENT: GROWTH, INFORMALISATION AND OTHER ISSUES",11,Economics,NA
+486,INFRASTRUCTURE,11,Economics,NA
+487,ENVIRONMENT AND SUSTAINABLE DEVELOPMENT,11,Economics,NA
+488,"COMPARATIVE DEVELOPMENT EXPERIENCES OF
+INDIA AND ITS NEIGHBOURS",11,Economics,NA
+489,"Business, Trade and Commerce",11,Busines Studies,NA
+490,Forms of Business Organisation,11,Busines Studies,NA
+491,Private & Public & Global Enterprises,11,Busines Studies,NA
+492,Business Services,11,Busines Studies,NA
+493,Emerging Modes of Business,11,Busines Studies,NA
+494,Social Responsibilities of Business and Business Ethics,11,Busines Studies,NA
+495,Formation of a Company,11,Busines Studies,NA
+496,Sources of Business Finance,11,Busines Studies,NA
+497,MSME and Business Entrepreneurship,11,Busines Studies,NA
+498,Internal Trade,11,Busines Studies,NA
+499,International Business,11,Busines Studies,NA
+500,SOCIOLOGY AND SOCIETY,11,Sociology,NA
+501,TERMS & CONCEPTS AND THEIR USE IN SOCIOLOGY,11,Sociology,NA
+502,UNDERSTANDING SOCIAL INSTITUTIONS,11,Sociology,NA
+503,CULTURE AND SOCIALISATION,11,Sociology,NA
+504,DOING SOCIOLOGY: RESEARCH METHODS,11,Sociology,NA
+505,Understanding the Self,11,Home Sciences,NA
+506,Food & Nutrition & Health & Fitness,11,Home Sciences,NA
+507,Management of Resources,11,Home Sciences,NA
+508,Fabrics Around Us,11,Home Sciences,NA
+509,Media and Communication Technology,11,Home Sciences,NA
+510,Effective Communication Skills,11,Home Sciences,NA
+511,Living and Working in a Global Society,11,Home Sciences,NA
+512,Relationships and Interactions with Significant Others,11,Home Sciences,NA
+513,Concerns and Needs in Diverse Contexts,11,Home Sciences,NA
+514,Prehistoric Rock Paintings,11,Fine Arts,NA
+515,Arts of the Indus Valley,11,Fine Arts,NA
+516,Arts of the Mauryan Period,11,Fine Arts,NA
+517,"Post-Mauryan Trends in Indian Art and
+Architecture",11,Fine Arts,NA
+518,Later Mural Traditions ,11,Fine Arts,NA
+519,Temple Architecture and Sculpture,11,Fine Arts,NA
+520,Indian Bronze Sculpture,11,Fine Arts,NA
+521,"Some Aspects of Indo-Islamic
+Architecture",11,Fine Arts,NA
+522,Accounting for Not-for-Profit Organisation,12,Accountancy,NA
+523,Accounting for Partnership : Basic Concepts,12,Accountancy,NA
+524,"Reconstitution of a Partnership Firm Admission
+of a Partner",12,Accountancy,NA
+525,"Reconstitution of a Partnership Firm
+Retirement/Death of a Partner",12,Accountancy,NA
+526,Dissolution of Partnership Firm ,12,Accountancy,NA
+527,Accounting for Share Capital,12,Accountancy,NA
+528,Issue and Redemption of Debentures,12,Accountancy,NA
+529,Financial Statements of a Company,12,Accountancy,NA
+530,Analysis of Financial Statements,12,Accountancy,NA
+531,Accounting Ratios,12,Accountancy,NA
+532,Cash Flow Statement,12,Accountancy,NA
+533,Financial Statements - I,11,Accountancy,NA
+534,Financial Statements - II,11,Accountancy,NA
+535,Accounts from Incomplete Records,11,Accountancy,NA
+536,Applications of Computers in Accounting,11,Accountancy,NA
+537,Computerised Accounting System,11,Accountancy,NA
+538,Variations in Psychological Attributes,12,Psychology,NA
+539,Self and Personality,12,Psychology,NA
+540,Meeting Life Challenges,12,Psychology,NA
+541,Psychological Disorders,12,Psychology,NA
+542,Therapeutic Approaches,12,Psychology,NA
+543,Attitude and Social Cognition,12,Psychology,NA
+544,Social Influence and Group Processes,12,Psychology,NA
+545,Psychology and Life,12,Psychology,NA
+546,Developing Psychological Skills,12,Psychology,NA
+547,Introducing Indian Society,12,Sociology,NA
+548,"The Demographic Structure of the Indian Society",12,Sociology,NA
+549,Social Institutions: Continuity and Change,12,Sociology,NA
+550,The Market as a Social Institution,12,Sociology,NA
+551,Patterns of Social Inequality and Exclusion,12,Sociology,NA
+552,The Challenges of Cultural Diversity,12,Sociology,NA
+553,Structural Change,12,Sociology,NA
+554,Cultural Change,12,Sociology,NA
+555,The Story of Indian Democracy,12,Sociology,NA
+556,Change and Development in Rural Society,12,Sociology,NA
+557,Change and Development in Industrial Society,12,Sociology,NA
+558,Globalisation and Social Change,12,Sociology,NA
+559,Mass Media and Communications,12,Sociology,NA
+560,Social Movements,12,Sociology,NA
+561,The Cold War Era,12,Political Sciences,NA
+562,The End of Bipolarity,12,Political Sciences,NA
+563,US Hegemony in World Politics,12,Political Sciences,NA
+564,Alternative Centres of Power,12,Political Sciences,NA
+565,Contemporary South Asia,12,Political Sciences,NA
+566,International Organisations,12,Political Sciences,NA
+567,Security in the Contemporary World,12,Political Sciences,NA
+568,Environment and Natural Resources,12,Political Sciences,NA
+569,Globalisation,12,Political Sciences,NA
+570,Challenges of Nation Building,12,Political Sciences,NA
+571,Era of One Party Dominance,12,Political Sciences,NA
+572,Politics of planned development,12,Political Sciences,NA
+573,India's external relations,12,Political Sciences,NA
+574,Challenges to and Restoration of Congress System,12,Political Sciences,NA
+575,The crisis of democratic order,12,Political Sciences,NA
+576,Rise of popular movements,12,Political Sciences,NA
+577,Regional Aspirations,12,Political Sciences,NA
+578,Recent developments in Indian Politics,12,Political Sciences,NA
+579,INTRODUCTION,12,Economics,NA
+580,THEORY OF CONSUMER BEHAVIOUR,12,Economics,NA
+581,PRODUCTION AND COSTS,12,Economics,NA
+582,THE THEORY OF THE FIRM UNDER PERFECT COMPETITION,12,Economics,NA
+583,MARKET EQUILIBRIUM,12,Economics,NA
+584,NON-COMPETITIVE MARKETS,12,Economics,NA
+585,NATIONAL INCOME ACCOUNTING,12,Economics,NA
+586,MONEY AND BANKING,12,Economics,NA
+587,DETERMINATION OF INCOME AND EMPLOYMENT,12,Economics,NA
+588,GOVERNMENT BUDGET AND THE ECONOMY,12,Economics,NA
+589,OPEN ECONOMY MACROECONOMICS,12,Economics,NA
+590,NATURE AND SIGNIFICANCE OF MANAGEMENT,12,Business Studies,NA
+591,PRINCIPLES OF MANAGEMENT,12,Business Studies,NA
+592,BUSINESS ENVIRONMENT,12,Business Studies,NA
+593,PLANNING,12,Business Studies,NA
+594,ORGANISING,12,Business Studies,NA
+595,STAFFING,12,Business Studies,NA
+596,DIRECTING,12,Business Studies,NA
+597,CONTROLLING,12,Business Studies,NA
+598,Financial Management,12,Business Studies,NA
+599,Financial Markets ,12,Business Studies,NA
+600,Marketing,12,Business Studies,NA
+601,Fabric And Apparel,12,Home Sciences,NA
+602,Resource Management,12,Home Sciences,NA
+603,Communication and Extension,12,Home Sciences,NA
+604,Work & Livelihood & Career,12,Home Sciences,NA
+605,Human Development and Family Studies,12,Home Sciences,NA
+606,The Manuscript Painting Tradition,12,Fine Arts,NA
+607,The Rajasthani Schools of Painting,12,Fine Arts,NA
+608,The Mughal School of Miniature Painting,12,Fine Arts,NA
+609,The Deccani Schools of Painting,12,Fine Arts,NA
+610,The Pahari Schools of Painting,12,Fine Arts,NA
+611,The Bengal School and Cultural Nationalism,12,Fine Arts,NA
+612,The Modern Indian Art,12,Fine Arts,NA
+613,The Living Art Traditions of India,12,Fine Arts,NA

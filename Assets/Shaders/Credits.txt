@@ -1,0 +1,7 @@
+Created by Artificial Illusions @AI__XR - https://twitter.com/AI__XR Website: https://www.artificialillusions.vision
+Basic Flag Shader with front and back culling.
+Purchase our flag shader with more shader control options at the Unity Store.
+
+
+Made with Amplify Shader Editor.
+http://amplify.pt/unity/amplify-shader-editor
