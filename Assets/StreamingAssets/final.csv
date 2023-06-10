@@ -1,0 +1,374 @@
+index,ChapterName,Subject,Sub Subject,tags
+0,SOLAR SYSTEM,['Social'],['Geography'],solar system social geographi
+1,ATOMS,['Science'],['Chemistry'],atom and molecul scienc chemistri
+2,HEAT,['Science'],['Physics'],heat scienc physic
+3,ELECTRICITY,['Science'],['Physics'],electr scienc physic
+4,NUTRITION IN PLANTS,['Science'],['Biology'],nutrit in plant scienc biolog
+5,NUTRITION IN ANIMALS,['Science'],['BIology'],nutrit in anim scienc biolog
+6,"ACIDS, BASES, SALTS",['Science'],['Chemistry'],"acids, bases, salt scienc chemistri"
+7,SOIL,['Science'],['Chemistry'],soil scienc chemistri
+8,FOOD CHAIN,['Science'],['Biology'],reproduct in plant scienc biolog
+9,LIGHT,['Science'],['Physics'],light scienc physic
+10,CROP PROUDUCTION AND MANAGEMENT,['Science'],['Chemistry'],crop prouduct and manag scienc chemistri
+11,MICROORGANISMS,['Science'],['Chemistry'],microorgan scienc chemistri
+12,SYNTHETIC FIBRES AND PLASTICS,['Science'],['Chemistry'],synthet fibr and plastic scienc chemistri
+13,COAL AND PETROLEUM,['Science'],['Chemistry'],coal and petroleum scienc chemistri
+14,METALS AND NON METALS,['Science'],['Chemistry'],metal and non metal scienc chemistri
+15,COMBUSTION AND FLAME,['Science'],['Chemistry'],combust and flame scienc chemistri
+16,CONSERVATION OF PLANTS AND ANIMALS,['Science'],['Biology'],conserv of plant and anim scienc biolog
+17,STRUCTURE AND FUNCTIONS OF CELL,['Science'],['Biology'],structur and function of cell scienc biolog
+18,REPRODUCTION,['Science'],['Biology'],reproduct scienc biolog
+19,REACHING THE AGE OF ADOLESCENCE,['Science'],['Biology'],reach the age of adolesc scienc biolog
+20,TISSUES,['Science'],['Biology'],tissu scienc biolog
+21,"WORK, ENERGY AND POWER",['Science'],['Physics'],"work, energi and power scienc physic"
+22,SOUND,['Science'],['Physics'],sound scienc physic
+23,NATURAL RESOURCES,['Science'],['Chemistry'],natur resourc scienc chemistri
+24,CHEMICAL REACTIONS AND EQUATIONS,['Science'],['Chemistry'],chemic reaction and equat scienc chemistri
+25,CARBON AND ITS COMPOUNDS,['Science'],['Chemistry'],carbon and it compound scienc chemistri
+26,PERIODIC CLASSIFICATION OF ELEMENTS,['Science'],['Chemistry'],period classif of element scienc chemistri
+27,LIFE PROCESSES,['Science'],['Biology'],life process scienc biolog
+28,CONTROL AND COORDINATION,['Science'],['Biology'],control and coordin scienc biolog
+29,HEREDITY AND EVOLUTION,['Science'],['Biology'],hered and evolut scienc biolog
+30,LIGHT - REFLECTION AND REFRACTION,['Science'],['Physics'],light - reflect and refract scienc physic
+31,HUMAN EYE AND THE COLOURFUL WORLD,['Science'],['Physics'],human eye and the colour world scienc physic
+32,MAGNETIC EFFECTS OF ELECTRIC CURRENT,['Science'],['Physics'],magnet effect of electr current scienc physic
+33,SOURCES OF ENERGY,['Science'],['Physics'],sourc of energi scienc physic
+34,OUR ENVIRONMENT ,['Science'],['Physics'],our environ scienc physic
+35,SUSTAINABLE MANAGEMENT OF NATURAL RESOURCES,['Science'],['Physics'],sustain manag of natur resourc scienc physic
+36,STRUCTURE OF ATOM,['Science'],['Chemistry'],structur of atom scienc chemistri
+37,CHEMICAL BONDING,['Science'],['Chemistry'],chemic bond scienc chemistri
+38,STATES OF MATTER,['Science'],['Chemistry'],state of matter scienc chemistri
+39,THERMODYNAMICS,['Science'],['Chemistry'],thermodynam scienc chemistri
+40,EQUILIBRIUM,['Science'],['Chemistry'],equilibrium scienc chemistri
+41,DIVERSITY IN LIVING WORLD,['Science'],['Biology'],divers in live world scienc biolog
+42,STRUCTURAL ORGANISATION IN PLANTS AND ANIMALS,['Science'],['Biology'],structur organis in plant and anim scienc biolog
+43,PLANT PHYSIOLOGY,['Science'],['Biology'],plant physiolog scienc biolog
+44,HUMAN PHYSIOLOGY,['Science'],['Biology'],human physiolog scienc biolog
+45,PHYSICAL WORLD,['Science'],['Physics'],physic world scienc physic
+46,UNITS AND MEASUREMENT,['Science'],['Physics'],unit and measur scienc physic
+47,MOTION IN A STRAIGHT LINE,['Science'],['Physics'],motion in a straight line scienc physic
+48,MOTION IN A PLANE,['Science'],['Physics'],motion in a plane scienc physic
+49,LAWS OF MOTION,['Science'],['Physics'],law of motion scienc physic
+50,SYSTEM OF PARTICLES AND ROTATIONAL MOTION,['Science'],['Physics'],system of particl and rotat motion scienc physic
+51,GRAVITATION,['Science'],['Physics'],gravit scienc physic
+52,REDOX REACTIONS,['Science'],['Chemistry'],redox reaction scienc chemistri
+53,HYDROGEN,['Science'],['Chemistry'],hydrogen scienc chemistri
+54,S BLOCK ELEMENTS,['Science'],['Chemistry'],s block element scienc chemistri
+55,P BLOCK ELEMENTS,['Science'],['Chemistry'],p block element scienc chemistri
+56,ORGANIC CHEMISTRY,['Science'],['Chemistry'],organ chemistri scienc chemistri
+57,HYDROCARBONS,['Science'],['Chemistry'],hydrocarbon scienc chemistri
+58,ENVIRONMENTAL CHEMISTRY,['Science'],['Chemistry'],environment chemistri scienc chemistri
+59,MECHANICAL PROPERTIES OF SOLIDS,['Science'],['Physics'],mechan properti of solid scienc physic
+60,MECHANICAL PROPERTIES OF LIQUIDS,['Science'],['Physics'],mechan properti of liquid scienc physic
+61,THERMAL PROPERTIES OF MATTER,['Science'],['Physics'],thermal properti of matter scienc physic
+62,KINETIC THEORY,['Science'],['Physics'],kinet theori scienc physic
+63,OSCILLATIONS,['Science'],['Physics'],oscil scienc physic
+64,WAVES,['Science'],['Physics'],wave scienc physic
+65,ELECTRIC CHARGES AND FIELDS,['Science'],['Physics'],electr charg and field scienc physic
+66,ELECTROSTATIC POTENTIAL AND CAPACITANCE,['Science'],['Physics'],electrostat potenti and capacit scienc physic
+67,CURRENT ELECTRICITY,['Science'],['Physics'],current electr scienc physic
+68,MOVING CHARGES AND MAGNETISM,['Science'],['Physics'],move charg and magnet scienc physic
+69,MAGNETISM AND MATTER,['Science'],['Physics'],magnet and matter scienc physic
+70,ELECTROMAGNETIC INDUCTION,['Science'],['Physics'],electromagnet induct scienc physic
+71,ALTERNATING CURRENT,['Science'],['Physics'],altern current scienc physic
+72,ELECTROMAGNETIC WAVES,['Science'],['Physics'],electromagnet wave scienc physic
+73,RAY OPTICS,['Science'],['Physics'],ray optic scienc physic
+74,OPTICAL INSTRUMENTS,['Science'],['Physics'],optic instrument scienc physic
+75,WAVE OPTICS,['Science'],['Physics'],wave optic scienc physic
+76,DUAL NATURE OF RADIATION AND MATTER,['Science'],['Physics'],dual natur of radiat and matter scienc physic
+77,NUCLEI,['Science'],['Physics'],nuclei scienc physic
+78,SEMICONDUCTOR ELECTRONICS,['Science'],['Physics'],semiconductor electron scienc physic
+79,BIOLOGY IN HUMAN WELFARE,['Science'],['Biology'],biolog in human welfar scienc biolog
+80,BIO TECHNOLOGY,['Science'],['Biology'],bio technolog scienc biolog
+81,ECOLOGY,['Science'],['Biology'],ecolog scienc biolog
+82,SOLID STATE,['Science'],['Chemistry'],solid state scienc chemistri
+83,SOLUTIONS,['Science'],['Chemistry'],solut scienc chemistri
+84,ELECTROCHEMISTRY,['Science'],['Chemistry'],electrochemistri scienc chemistri
+85,CHEMICAL KINETICS,['Science'],['Chemistry'],chemic kinet scienc chemistri
+86,SURFACE CHEMISTRY,['Science'],['Chemistry'],surfac chemistri scienc chemistri
+87,D BLOCK ELEMENTS,['Science'],['Chemistry'],d block element scienc chemistri
+88,F BLOCK ELEMENTS,['Science'],['Chemistry'],f block element scienc chemistri
+89,COORDINATION COMPOUNDS,['Science'],['Chemistry'],coordin compound scienc chemistri
+90,EQUALITY IN INDIAN DEMOCRACY,['Social'],['Politics'],equal in indian democraci social polit
+91,STATE GOVERNMENT,['Social'],['Politics'],state govern social polit
+92,GENDER,['Social'],['Politics'],gender social polit
+93,MEDIA,['Social'],['Politics'],media social polit
+94,MARKETS,['Social'],['Economics'],market social econom
+95,NEW KINGS AND KINGDOMS,['Social'],['History'],new king and kingdom social histori
+96,DELHI SULTANS,['Social'],['History'],delhi sultan social histori
+97,MUGHAL EMPIRE,['Social'],['History'],mughal empir social histori
+98,RULERS AND BUILDINGS,['Social'],['History'],ruler and build social histori
+99,"TOWNS, TRADERS AND CRAFTSPERSONS",['Social'],['History'],"towns, trader and craftsperson social histori"
+100,"TRIBES, NOMADS AND SETTLED COMMUNITIES",['Social'],['History'],"tribes, nomad and settl commun social histori"
+101,DEVOTIONAL PATHS TO THE DIVINE,['Social'],['History'],devot path to the divin social histori
+102,MAKING OF REGIONAL CULTURES,['Social'],['History'],make of region cultur social histori
+103,EIGHTEENTH CENTURY POLITICAL FORMATIONS,['Social'],['History'],eighteenth centuri polit format social histori
+104,RESOURCES,['Social'],['Geography'],resourc social geographi
+105,NATURAL VEGETATION AND WILDLIFE RESOURCES,['Social'],['Geography'],natur veget and wildlif resourc social geographi
+106,MINERAL AND POWER RESOURCES,['Social'],['Geography'],miner and power resourc social geographi
+107,AGRICULTURE,['Social'],['Geography'],agricultur social geographi
+108,INDUSTRIES,['Social'],['Geography'],industri social geographi
+109,HUMAN RESOURCES,['Social'],['Geography'],human resourc social geographi
+110,INDIAN CONSTITUITION AND SECULARISM,['Social'],['Politics'],indian constituit and secular social polit
+111,PARLIAMENT AND MAKING OF LAWS,['Social'],['Politics'],parliament and make of law social polit
+112,THE JUDICIARY,['Social'],['Politics'],the judiciari social polit
+113,SOCIAL JUSTICE AND THE MARGINALISED,['Social'],['Politics'],social justic and the marginalis social polit
+114,ECONOMIC PRESENCE OF THE GOVERNMENT,['Social'],['Politics'],econom presenc of the govern social polit
+115,FROM TRADE TO TERRITORY,['Social'],['History'],from trade to territori social histori
+116,RULING THE COUNTRYSIDE,['Social'],['History'],rule the countrysid social histori
+117,"TRIBALS, DIKUS AND VISION OF A GOLDEN AGE",['Social'],['History'],"tribals, diku and vision of a golden age social histori"
+118,WHEN PEOPLE REBEL,['Social'],['History'],when peopl rebel social histori
+119,"WEAVERS, IRON SMELTERS AND FACTORY OWNERS",['Social'],['History'],"weavers, iron smelter and factori owner social histori"
+120,"CIVILISING THE NATIVE, EDUCATING THE NATION",['Social'],['History'],"civilis the native, educ the nation social histori"
+121,"WOMEN, CASTE AND REFORM",['Social'],['History'],"women, cast and reform social histori"
+122,THE MAKING OF THE NATIONAL MOVEMENT,['Social'],['History'],the make of the nation movement social histori
+123,INDIA AFTER INDEPENDENCE,['Social'],['History'],india after independ social histori
+124,WHAT IS DEMOCRACY? WHY DEMOCRACY?,['Social'],['Politics'],what is democracy? whi democracy? social polit
+125,CONSTITUTIONAL DESIGN,['Social'],['Politics'],constitut design social polit
+126,ELECTORAL POLITICS,['Social'],['Politics'],elector polit social polit
+127,WORKING OF INSTITUTIONS ,['Social'],['Politics'],work of institut social polit
+128,DEMOCRATIC RIGHTS,['Social'],['Politics'],democrat right social polit
+129,INDIA – SIZE AND LOCATION,['Social'],['Geography'],india – size and locat social geographi
+130,PHYSICAL FEATURES OF INDIA,['Social'],['Geography'],physic featur of india social geographi
+131,DRAINAGE ,['Social'],['Geography'],drainag social geographi
+132,CLIMATE,['Social'],['Geography'],climat social geographi
+133,NATURAL VEGETATION AND WILDLIFE OF INDIA,['Social'],['Geography'],natur veget and wildlif of india social geographi
+134,POPULATION,['Social'],['Geography'],popul social geographi
+135,NATURAL VEGETATION AND WILDLIFE ,['Social'],['Economics'],natur veget and wildlif social econom
+136,PEOPLE AS RESOURCE,['Social'],['Economics'],peopl as resourc social econom
+137,POVERTY AS A CHALLENGE,['Social'],['Economics'],poverti as a challeng social econom
+138,FOOD SECURITY IN INDIA,['Social'],['Economics'],food secur in india social econom
+139,FRENCH REVOLUTION,['Social'],['History'],french revolut social histori
+140,PASTORALISTS IN THE MODERN WORLD,['Social'],['History'],pastoralist in the modern world social histori
+141,FOREST SOCIETY AND COLONIALISM,['Social'],['History'],forest societi and coloni social histori
+142,NAZISM AND THE RISE OF HITLER,['Social'],['History'],nazism and the rise of hitler social histori
+143,SOCIALISM IN EUROPE AND RUSSIAN REVOLUTION,['Social'],['History'],social in europ and russian revolut social histori
+144,RESOURCES AND DEVELOPMENT,['Social'],['Geography'],resourc and develop social geographi
+145,FOREST AND WILDLIFE RESOURCES,['Social'],['Geography'],forest and wildlif resourc social geographi
+146,WATER RESOURCES,['Social'],['Geography'],water resourc social geographi
+147,MINERALS AND ENERGY RESOURCES,['Social'],['Geography'],miner and energi resourc social geographi
+148,MANUFACTURING INDUSTRIES,['Social'],['Geography'],manufactur industri social geographi
+149,LIFELINES OF NATIONAL ECONOMY,['Social'],['Geography'],lifelin of nation economi social geographi
+150,RISE OF NATIONALISM IN EUROPE,['Social'],['History'],rise of nation in europ social histori
+151,NATIONALISM IN INDIA,['Social'],['History'],nation in india social histori
+152,THE MAKING OF A GLOBAL WORLD,['Social'],['History'],the make of a global world social histori
+153,THE AGE OF INDUSTRIALISATION,['Social'],['History'],the age of industrialis social histori
+154,PRINT CULTURE AND THE MODERN WORLD,['Social'],['History'],print cultur and the modern world social histori
+155,DEVELOPMENT,['Social'],['Economics'],develop social econom
+156,SECTORS OF INDIAN ECONOMY,['Social'],['Economics'],sector of indian economi social econom
+157,MONEY AND CREDIT,['Social'],['Economics'],money and credit social econom
+158,GLOBALISATION AND THE INDIAN ECONOMY,['Social'],['Economics'],globalis and the indian economi social econom
+159,CONSUMER RIGHTS,['Social'],['Economics'],consum right social econom
+160,POWER SHARING,['Social'],['Politics'],power share social polit
+161,FEDERALISM,['Social'],['Politics'],feder social polit
+162,DEMOCRACY AND DIVERSITY,['Social'],['Politics'],democraci and divers social polit
+163,"GENDER, RELIGION AND CASTE",['Social'],['Politics'],"gender, religion and cast social polit"
+164,POPULAR STRUGGLES AMD MOVEMENTS,['Social'],['Politics'],popular struggl amd movement social polit
+165,POLITICAL PARTIES,['Social'],['Politics'],polit parti social polit
+166,OUTCOMES OF DEMOCRACY,['Social'],['Politics'],outcom of democraci social polit
+167,CHALLENGES TO DEMOCRACY,['Social'],['Politics'],challeng to democraci social polit
+168,GEOGRAPHY AS A DISCIPLINE,['Social'],['Geography'],geographi as a disciplin social geographi
+169,THE ORIGIN AND EVOLUTION OF THE EARTH,['Social'],['Geography'],the origin and evolut of the earth social geographi
+170,INTERIOR OF THE EARTH,['Social'],['Geography'],interior of the earth social geographi
+171,DISTRIBUTION OF OCEANS AND CONTINENTS,['Social'],['Geography'],distribut of ocean and contin social geographi
+172,MINERALS AND ROCKS,['Social'],['Geography'],miner and rock social geographi
+173,GEOMORPHIC PROCESSES,['Social'],['Geography'],geomorph process social geographi
+174,LANDFORMS AND THEIR EVOLUTION,['Social'],['Geography'],landform and their evolut social geographi
+175,COMPOSITION AND STRUCTURE OF ATMOSPHERE,['Social'],['Geography'],composit and structur of atmospher social geographi
+176,"SOLAR RADIATION, HEAT BALANCE AND TEMPERATURE",['Social'],['Geography'],"solar radiation, heat balanc and temperatur social geographi"
+177,ATMOSPHERIC CIRCULATION AND WEATHER SYSTEMS,['Social'],['Geography'],atmospher circul and weather system social geographi
+178,WATER IN THE ATMOSPHERE,['Social'],['Geography'],water in the atmospher social geographi
+179,WORLD CLIMATE AND CLIMATE CHANGE,['Social'],['Geography'],world climat and climat chang social geographi
+180,WATER (OCEANS),['Social'],['Geography'],water (oceans) social geographi
+181,MOVEMENTS OF OCEAN WATER,['Social'],['Geography'],movement of ocean water social geographi
+182,LIFE ON THE EARTH,['Social'],['Geography'],life on the earth social geographi
+183,BIODIVERSITY AND CONSERVATION,['Social'],['Geography'],biodivers and conserv social geographi
+184,INDIAN ECONOMY ON THE EVE OF INDEPENDENCE,['Social'],['Economics'],indian economi on the eve of independ social econom
+185,THE GOALS OF FIVE YEAR PLANS,['Social'],['Economics'],the goal of five year plan social econom
+186,"LIBERALISATION, PRIVATISATION AND GLOBALISATION : AN APPRAISA",['Social'],['Economics'],"liberalisation, privatis and globalis : an appraisa social econom"
+187,HUMAN CAPITAL FORMATION IN INDIA,['Social'],['Economics'],human capit format in india social econom
+188,RURAL DEVELOPMENT,['Social'],['Economics'],rural develop social econom
+189,"EMPLOYMENT: GROWTH, INFORMALISATION AND OTHER ISSUES ",['Social'],['Economics'],"employment: growth, informalis and other issu social econom"
+190,INFRASTRUCTURE,['Social'],['Economics'],infrastructur social econom
+191,ENVIRONMENT AND SUSTAINABLE DEVELOPMENT,['Social'],['Economics'],environ and sustain develop social econom
+192,COMPARATIVE DEVELOPMENT EXPERIENCES OF 181 INDIA AND ITS NEIGHBOURS,['Social'],['Economics'],compar develop experi of 181 india and it neighbour social econom
+193,POLITICAL THEORY: AN INTRODUCTION,['Social'],['Politics'],polit theory: an introduct social polit
+194,FREEDOM,['Social'],['Politics'],freedom social polit
+195,RIGHTS,['Social'],['Politics'],right social polit
+196,CITIZENSHIP,['Social'],['Politics'],citizenship social polit
+197,SECULARISM,['Social'],['Politics'],secular social polit
+198,PEACE,,,
+,['Social'],['Politics'],peac social polit,
+199,DEVELOPMENT,['Social'],['Politics'],develop social polit
+200,EARLY SOCIETIES,['Social'],['History'],earli societi social histori
+201,EMPIRES,['Social'],['History'],empir social histori
+202,CHANGING TRADITIONS,,,
+,['Social'],['History'],chang tradit social histori,
+203,TOWARDS MODERNISATION,['Social'],['History'],toward modernis social histori
+204,THE HARAPPAN CIVILISATION,['Social'],['History'],the harappan civilis social histori
+205,"KINGS, FARMERS AND TOWNS
+EARLY STATES AND ECONOMIES
+(C.600 BCE-600 CE)",['Social'],['History'],"kings, farmer and town earli state and economi (c.600 bce-600 ce) social histori"
+206,"KINSHIP, CASTE AND CLASS
+EARLY SOCIETIES
+(C. 600 BCE-600 CE",['Social'],['History'],"kinship, cast and class earli societi (c. 600 bce-600 ce social histori"
+207,CULTURAL DEVELOPMENTS,,,
+,['Social'],['History'],cultur develop social histori,
+208,PERCEPTIONS OF SOCIETY,['Social'],['History'],percept of societi social histori
+209,CHANGES IN RELIGIOUS BELIEFS AND DEVOTIONAL TEXTS,['Social'],['History'],chang in religi belief and devot text social histori
+210,AN IMPERIAL CAPITAL: VIJAYANAGARA,,,
+,['Social'],['History'],an imperi capital: vijayanagara social histori,
+211,AGRARIAN SOCIETY AND THE MUGHAL EMPIRE,,,
+,['Social'],['History'],agrarian societi and the mughal empir social histori,
+212,THE MUGHAL COURTS,['Social'],['History'],the mughal court social histori
+213,"COLONIALISM AND THE COUNTRYSIDE:
+EXPLORING OFFICIAL ARCHIVES",['Social'],['History'],coloni and the countryside: explor offici archiv social histori
+214,"REBELS AND THE RAJ:
+1857 REVOLT AND ITS REPRESENTATIONS",['Social'],['History'],rebel and the raj: 1857 revolt and it represent social histori
+215,"COLONIAL CITIES:
+URBANISATION, PLANNING AND ARCHITECTURE",['Social'],['History'],"coloni cities: urbanisation, plan and architectur social histori"
+216,"MAHATMA GANDHI AND THE
+NATIONALIST MOVEMENT:
+CIVIL DISOBEDIENCE AND BEYOND",['Social'],['History'],mahatma gandhi and the nationalist movement: civil disobedi and beyond social histori
+217,"UNDERSTANDING PARTITION:
+POLITICS, MEMORIES, EXPERIENCES
+",['Social'],['History'],"understand partition: politics, memories, experi social histori"
+218,"FRAMING THE CONSTITUTION:
+THE BEGINNING OF A NEW ERA",['Social'],['History'],frame the constitution: the begin of a new era social histori
+219,HUMAN GEOGRAPHY NATURE AND SCOPE,['Social'],['Geography'],human geographi natur and scope social geographi
+220,"THE WORLD POPULATION
+DISTRIBUTION, DENSITY AND GROWTH",['Social'],['Geography'],"the world popul distribution, densiti and growth social geographi"
+221,POPULATION COMPOSITION,['Social'],['Geography'],popul composit social geographi
+222,HUMAN DEVELOPMENT,['Social'],['Geography'],human develop social geographi
+223,PRIMARY ACTIVITIES,['Social'],['Geography'],primari activ social geographi
+224,SECONDARY ACTIVITIES,['Social'],['Geography'],secondari activ social geographi
+225,TERTIARY AND QUATERNARY ACTIVITIES,['Social'],['Geography'],tertiari and quaternari activ social geographi
+226,TRANSPORT AND COMMUNICATION,['Social'],['Geography'],transport and commun social geographi
+227,INTERNATIONAL TRADE,['Social'],['Geography'],intern trade social geographi
+228,HUMAN SETTLEMENTS,['Social'],['Geography'],human settlement social geographi
+229,"POPULATION : DISTRIBUTION, DENSITY, GROWTH AND COMPOSITION 1",['Social'],['Geography'],"popul : distribution, density, growth and composit 1 social geographi"
+230,"MIGRATION : TYPES, CAUSES AND CONSEQUENCES",['Social'],['Geography'],"migrat : types, caus and consequ social geographi"
+232,LAND RESOURCES AND AGRICULTURE,['Social'],['Geography'],land resourc and agricultur social geographi
+233,WATER RESOURCES,['Social'],['Geography'],water resourc social geographi
+234,MINERAL AND ENERGY RESOURCES,['Social'],['Geography'],miner and energi resourc social geographi
+235,MANUFACTURING INDUSTRIES,['Social'],['Geography'],manufactur industri social geographi
+236,PLANNING AND SUSTAINABLE DEVELOPMENT IN INDIAN CONTEXT 1,['Social'],['Geography'],plan and sustain develop in indian context 1 social geographi
+239,GEOGRAPHICAL PERSPECTIVE ON SELECTED ISSUES AND PROBLEMS,['Social'],['Geography'],geograph perspect on select issu and problem social geographi
+240,THE COLD WAR ERA,['Social'],['Politics'],the cold war era social polit
+241,THE END OF BIPOLARITY,['Social'],['Politics'],the end of bipolar social polit
+242,US HEGEMONY IN WORLD POLITICS,['Social'],['Politics'],us hegemoni in world polit social polit
+243,ALTERNATIVE CENTRES OF POWER,['Social'],['Politics'],altern centr of power social polit
+244,CONTEMPORARY SOUTH ASIA ,['Social'],['Politics'],contemporari south asia social polit
+245,INTERNATIONAL ORGANISATIONS,['Social'],['Politics'],intern organis social polit
+246,SECURITY IN THE CONTEMPORARY WORLD,['Social'],['Politics'],secur in the contemporari world social polit
+247,ENVIRONMENT AND NATURAL RESOURCES,['Social'],['Politics'],environ and natur resourc social polit
+248,GLOBALISATION,['Social'],['Politics'],globalis social polit
+249,CHALLENGES OF NATION BUILDING,['Social'],['Politics'],challeng of nation build social polit
+250,ERA OF ONE-PARTY DOMINANCE,['Social'],['Politics'],era of one-parti domin social polit
+251,POLITICS OF PLANNED DEVELOPMENT,['Social'],['Politics'],polit of plan develop social polit
+252,INDIA'S EXTERNAL RELATIONS,['Social'],['Politics'],india' extern relat social polit
+253,CHALLENGES TO AND RESTORATION OF CONGRESS SYSTEM,['Social'],['Politics'],challeng to and restor of congress system social polit
+254,THE CRISIS OF DEMOCRATIC ORDER,['Social'],['Politics'],the crisi of democrat order social polit
+255,RISE OF POPULAR MOVEMENTS,['Social'],['Politics'],rise of popular movement social polit
+256,REGIONAL ASPIRATIONS,['Social'],['Politics'],region aspir social polit
+257,RECENT DEVELOPMENTS IN INDIAN POLITICS,['Social'],['Politics'],recent develop in indian polit social polit
+258,THEORY OF CONSUMER BEHAVIOUR,['Social'],['Economics'],theori of consum behaviour social econom
+259,PRODUCTION AND COSTS,['Social'],['Economics'],product and cost social econom
+260,THE THEORY OF THE FIRM UNDER PERFECT COMPETITION,['Social'],['Economics'],the theori of the firm under perfect competit social econom
+261,MARKET EQUILIBRIUM,['Social'],['Economics'],market equilibrium social econom
+262,NON-COMPETITIVE MARKETS,['Social'],['Economics'],non-competit market social econom
+263,NATIONAL INCOME ACCOUNTING,['Social'],['Economics'],nation incom account social econom
+264,MONEY AND BANKING,['Social'],['Economics'],money and bank social econom
+265,DETERMINATION OF INCOME AND EMPLOYMENT,['Social'],['Economics'],determin of incom and employ social econom
+266,GOVERNMENT BUDGET AND THE ECONOMY ,['Social'],['Economics'],govern budget and the economi social econom
+267,OPEN ECONOMY MACROECONOMICS,['Social'],['Economics'],open economi macroeconom social econom
+268,KNOWING OUR NUMBERS,['Maths'],['NumberSystem'],know our number math numbersystem
+269,WHOLE NUMBERS,['Maths'],['NumberSystem'],whole number math numbersystem
+270,PLAYING WITH NUMBERS,['Maths'],['NumberSystem'],play with number math numbersystem
+271,BASIC GEOMETRICAL IDEAS,['Maths'],['Geometry'],basic geometr idea math geometri
+272,UNDERSTANDING ELEMENTARY SHAPES,['Maths'],['Geometry'],understand elementari shape math geometri
+273,INTEGERS,['Maths'],"['Number', 'System']",integ math number system
+274,FRACTIONS,['Maths'],['NumberSystem'],fraction math numbersystem
+275,DECIMALS,['Maths'],"['Number', 'System']",decim math number system
+276,DATA HANDLING,['Maths'],"['Number', 'System']",data handl math number system
+277,MENSURATION,['Maths'],"['Number', 'System']",mensur math number system
+278,ALGEBRA,['Maths'],['Algebra'],algebra math algebra
+279,RATIO AND PROPORTION,['Maths'],"['Number', 'System']",ratio and proport math number system
+280,SYMMETRY,['Maths'],"['Number', 'System']",symmetri math number system
+281,PRACTICAL GEOMETRY,['Maths'],['Geometry'],practic geometri math geometri
+282,SIMPLE EQUATIONS,['Maths'],['Algebra'],simpl equat math algebra
+283,LINES AND ANGLES ,['Maths'],['Geometry'],line and angl math geometri
+284,THE TRIANGLE AND ITS PROPERTIES,['Maths'],['Geometry'],the triangl and it properti math geometri
+285,CONGRUENCE OF TRIANGLES ,['Maths'],['Geometry'],congruenc of triangl math geometri
+286,COMPARING QUANTITIES,['Maths'],['Algebra'],compar quantiti math algebra
+287,RATIONAL NUMBERS,['Maths'],"['Number', 'System']",ration number math number system
+288,PERIMETER AND AREA ,['Maths'],['Geometry'],perimet and area math geometri
+289,ALGEBRAIC EXPRESSIONS ,['Maths'],['Algebra'],algebra express math algebra
+290,EXPONENTS AND POWERS,['Maths'],['Algebra'],expon and power math algebra
+291,SYMMETRY,['Maths'],['Geometry'],symmetri math geometri
+292,VISUALISING SOLID SHAPES ,['Maths'],['Geometry'],visualis solid shape math geometri
+293,LINEAR EQUATIONS IN ONE VARIABLE,['Maths'],['Algebra'],linear equat in one variabl math algebra
+294,UNDERSTANDING QUADRILATERALS,['Maths'],['Geometry'],understand quadrilater math geometri
+295,SQUARES AND SQUARE ROOTS ,['Maths'],['Algebra'],squar and squar root math algebra
+296,CUBES AND CUBE ROOTS,['Maths'],['Algebra'],cube and cube root math algebra
+297,ALGEBRAIC EXPRESSIONS AND IDENTITIES,['Maths'],['Algebra'],algebra express and ident math algebra
+298,EXPONENTS AND POWERS,['Maths'],['Algebra'],expon and power math algebra
+299,DIRECT AND INVERSE PROPORTIONS,['Maths'],['Algebra'],direct and invers proport math algebra
+300,FACTORISATION,['Maths'],['Algebra'],factoris math algebra
+301,INTRODUCTION TO GRAPHS,['Maths'],['Geometry'],introduct to graph math geometri
+302,PLAYING WITH NUMBERS,['Maths'],"['Number', 'System']",play with number math number system
+303,NUMBER SYSTEMS,['Maths'],"['Number', 'System']",number system math number system
+304,POLYNOMIALS,['Maths'],['Algebra'],polynomi math algebra
+305,COORDINATE GEOMETRY,['Maths'],['Geometry'],coordin geometri math geometri
+306,LINEAR EQUATIONS IN TWO VARIABLES,['Maths'],['Algebra'],linear equat in two variabl math algebra
+307,INTRODUCTION TO EUCLID’S GEOMETRY,['Maths'],['Geometry'],introduct to euclid’ geometri math geometri
+308,LINES AND ANGLES,['Maths'],['Geometry'],line and angl math geometri
+309,TRIANGLES ,['Maths'],['Geometry'],triangl math geometri
+310,QUADRILATERALS ,['Maths'],['Geometry'],quadrilater math geometri
+311,AREAS OF PARALLELOGRAMS AND TRIANGLES,['Maths'],['Geometry'],area of parallelogram and triangl math geometri
+312,CIRCLES,['Maths'],['Geometry'],circl math geometri
+313,CONSTRUCTIONS,['Maths'],['Geometry'],construct math geometri
+314,HERON’S FORMULA,['Maths'],['Geometry'],heron’ formula math geometri
+315,SURFACE AREAS AND VOLUMES,['Maths'],['Geometry'],surfac area and volum math geometri
+316,STATISTICS,['Maths'],['Probability'],statist math probabl
+317,PROBABILITY,['Maths'],['Probabilty'],probabl math probabilti
+318,PROOFS IN MATHEMATICS,['Maths'],"['Number', 'System']",proof in mathemat math number system
+319,INTRODUCTION TO MATHEMATICAL MODELLING,['Maths'],"['Number', 'System']",introduct to mathemat model math number system
+320,REAL NUMBERS,['Maths'],"['Number', 'System']",real number math number system
+321,PAIR OF LINEAR EQUATIONS IN TWO VARIABLES,['Maths'],['Algebra'],pair of linear equat in two variabl math algebra
+322,QUADRATIC EQUATIONS,['Maths'],['Algebra'],quadrat equat math algebra
+323,ARITHMETIC PROGRESSIONS,['Maths'],['Algebra'],arithmet progress math algebra
+324,TRIANGLES,['Maths'],['Geometry'],triangl math geometri
+325,COORDINATE GEOMETRY,['Maths'],['Geometry'],coordin geometri math geometri
+326,INTRODUCTION TO TRIGONOMETRY,['Maths'],['Trigonometry'],introduct to trigonometri math trigonometri
+327,SOME APPLICATIONS OF TRIGONOMETRY,['Maths'],['Trigonometry'],some applic of trigonometri math trigonometri
+328,AREAS RELATED TO CIRCLES,['Maths'],['Geometry'],area relat to circl math geometri
+329,STATISTICS,['Maths'],['Probability'],statist math probabl
+330,PROOFS IN MATHEMATICS,['Maths'],"['Number', 'System']",proof in mathemat math number system
+331,MATHEMATICAL MODELLING,['Maths'],"['Number', 'System']",mathemat model math number system
+332,SETS,['Maths'],"['Number', 'System']",set math number system
+333,RELATIONS AND FUNCTIONS,['Maths'],"['Number', 'System']",relat and function math number system
+334,TRIGONOMETRIC FUNCTIONS,['Maths'],['Trigonometry'],trigonometr function math trigonometri
+335,PRINCIPLE OF MATHEMATICAL INDUCTION,['Maths'],"['Number', 'System']",principl of mathemat induct math number system
+336,COMPLEX NUMBERS AND QUADRATIC EQUATIONS,['Maths'],['Algebra'],complex number and quadrat equat math algebra
+337,LINEAR INEQUALITIES,['Maths'],['Algebra'],linear inequ math algebra
+338,PERMUTATIONS AND COMBINATIONS ,['Maths'],['Probabilty'],permut and combin math probabilti
+339,BINOMIAL THEOREM,['Maths'],['Algebra'],binomi theorem math algebra
+340,SEQUENCES AND SERIES ,['Maths'],"['Number', 'System']",sequenc and seri math number system
+341,STRAIGHT LINES,['Maths'],['Geometry'],straight line math geometri
+342,CONIC SECTIONS,['Maths'],['Geometry'],conic section math geometri
+343,INTRODUCTION TO THREE DIMENSIONAL GEOMETRY,['Maths'],['Geometry'],introduct to three dimension geometri math geometri
+344,LIMITS AND DERIVATIVES,['Maths'],['Geometry'],limit and deriv math geometri
+345,MATHEMATICAL REASONING,['Maths'],"['Number', 'System']",mathemat reason math number system
+346,RELATIONS AND FUNCTIONS,['Maths'],"['Number', 'System']",relat and function math number system
+347,INVERSE TRIGONOMETRIC FUNCTIONS,['Maths'],['Trigonometry'],invers trigonometr function math trigonometri
+348,MATRICES,['Maths'],"['Number', 'System']",matric math number system
+349,DETERMINANTS,['Maths'],"['Number', 'System']",determin math number system
+350,CONTINUITY AND DIFFERENTIABILITY,['Maths'],"['Number', 'System']",continu and differenti math number system
+351,APPLICATION OF DERIVATIVES,['Maths'],"['Number', 'System']",applic of deriv math number system
+352,INTEGRALS,['Maths'],"['Number', 'System']",integr math number system
+353,APPLICATION OF INTEGRALS,['Maths'],"['Number', 'System']",applic of integr math number system
+354,DIFFERENTIAL EQUATIONS,['Maths'],"['Number', 'System']",differenti equat math number system
+355,VECTOR ALGEBRA,['Maths'],['Algebra'],vector algebra math algebra
+356,THREE DIMENSIONAL GEOMETRY,['Maths'],['Geometry'],three dimension geometri math geometri
+357,LINEAR PROGRAMMING,['Maths'],['Algebra'],linear program math algebra
