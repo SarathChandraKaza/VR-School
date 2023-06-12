@@ -29,7 +29,7 @@ After the module is done, the user goes into a recommendation page where related
 * Click on the "VR School" application to start.
 
 # Demonstration Video
-
+https://github.com/SarathChandraKaza/VR-School/assets/99459415/13892b6d-0a25-4022-aee7-6b4056b0fa80
 
 # Snapshots
 
