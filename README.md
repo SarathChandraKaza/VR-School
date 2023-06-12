@@ -8,8 +8,6 @@ Once the user opens the application, they'll be viewing the intro page and once 
 After they select a module, the course starts. The user can interact with the high definiton 3D models in realtime and learn more about the concepts taught in the lecture. 
 After the module is done, the user goes into a recommendation page where related chapters are suggested to the user.
 
-## Working Video
-
 # Technologies used
  * The environment was designed using 3D models downloaded from the internet and modified using Blender3D.
  * The animation of 3D models were scripted using C# in Unity3D.
@@ -29,6 +27,8 @@ After the module is done, the user goes into a recommendation page where related
 * Once the installation is completely done, wear the Oculus Quest 2 and go into "Unknown Devices" tab.
 
 * Click on the "VR School" application to start.
+
+# Demonstration Video
 
 # Snapshots
 
