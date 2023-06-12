@@ -5,7 +5,7 @@ VR School is an educational application created for providing immersive educatio
 
 # Working
 
-Once the user opens the application, they'll be viewing the intropage and once they get into the index page, they are given a chance to select the module which they wish to learn. 
+Once the user opens the application, they'll be viewing the intro page and once they get into the index page, they are given a chance to select the module which they wish to learn. 
 After they select a module, the course starts. The user can interact with the high definiton 3D models in realtime and learn more about the concepts taught in the lecture. 
 After the module is done, the user goes into a recommendation page where related chapters are suggested to the user.
 
@@ -40,19 +40,20 @@ After the module is done, the user goes into a recommendation page where related
 
 ![index](https://github.com/SarathChandraKaza/VR-School/assets/99459415/e0bffd97-3455-41b6-972a-ba3737a90d9c)
 
-## Module 1 - Atoms
-
-![atoms_1](https://github.com/SarathChandraKaza/VR-School/assets/99459415/fd6ae80b-4fe1-4f5e-9a65-61ab0511c850)
-
-![4  Module 1 - Scene 3](https://user-images.githubusercontent.com/99459415/184802157-44966061-efb7-46e1-bf33-7498bc3c1285.png)
-
-## Module 2 - Solar System
+## Module 1 - Solar System
 
 ![SceneView](https://user-images.githubusercontent.com/99459415/184802203-ba689bc1-dbc8-4a70-85fa-8de781fc1767.png)
 
 ![6  Planets](https://user-images.githubusercontent.com/99459415/184805321-f5dff266-cad3-4b52-9f6d-935ec51e924d.jpg)
 
-## Module 3 - CHemical Bonding
+## Module 2 - Atoms
+
+![atoms_1](https://github.com/SarathChandraKaza/VR-School/assets/99459415/fd6ae80b-4fe1-4f5e-9a65-61ab0511c850)
+
+![4  Module 1 - Scene 3](https://user-images.githubusercontent.com/99459415/184802157-44966061-efb7-46e1-bf33-7498bc3c1285.png)
+
+
+## Module 3 - Chemical Bonding
 
 ![ionic and metallic](https://github.com/SarathChandraKaza/VR-School/assets/99459415/5c9c363d-ad53-4fb1-bcea-73656a2cffd4)
 
