@@ -36,14 +36,15 @@ After the module is done, the user goes into a recommendation page where related
 # Snapshots
 
 ## Intro Page
-
-![1  Intro Page](https://user-images.githubusercontent.com/99459415/184802092-28728f1a-fdb9-4c8b-9354-2726b62a896b.png)
+![intropage](https://github.com/SarathChandraKaza/VR-School/assets/99459415/d9626c82-a4ea-4c3e-813e-7c5ec3a54547)
 
 ## Index Page
 
+![index](https://github.com/SarathChandraKaza/VR-School/assets/99459415/e0bffd97-3455-41b6-972a-ba3737a90d9c)
+
 ## Module 1 - Atoms
 
-![2  Module 1 -  Scene 1](https://user-images.githubusercontent.com/99459415/184806013-6f8b4345-c2fc-45b2-a8cf-c8c4b23eaecd.png)
+![atoms_1](https://github.com/SarathChandraKaza/VR-School/assets/99459415/fd6ae80b-4fe1-4f5e-9a65-61ab0511c850)
 
 ![4  Module 1 - Scene 3](https://user-images.githubusercontent.com/99459415/184802157-44966061-efb7-46e1-bf33-7498bc3c1285.png)
 
@@ -55,10 +56,18 @@ After the module is done, the user goes into a recommendation page where related
 
 ## Module 3 - CHemical Bonding
 
+![ionic and metallic](https://github.com/SarathChandraKaza/VR-School/assets/99459415/5c9c363d-ad53-4fb1-bcea-73656a2cffd4)
+
+![covalent](https://github.com/SarathChandraKaza/VR-School/assets/99459415/0e1ed842-4584-423b-a630-4b01bea37891)
+
 ## Module 4 - Food Chain
+
+![foodchain](https://github.com/SarathChandraKaza/VR-School/assets/99459415/acbd05cf-bb22-45a3-a230-6a7aade7adef)
+
 
 ## Recommendation Page
 
+![recpage](https://github.com/SarathChandraKaza/VR-School/assets/99459415/215d36ae-f7de-4bb1-9ad9-e16a8c7101e9)
 
 # Trivia
 Our University, Sastra Deemed to be University, Thanjavur, Tamilnadu has selected our project and our application will be deployed in 75 Oculus Quest 2 devices which will be distributed to 75 high schools all across Tamilnadu.
