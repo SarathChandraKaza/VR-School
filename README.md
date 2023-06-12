@@ -1,5 +1,3 @@
-![welcome](https://user-images.githubusercontent.com/99459415/184804437-5000d8af-74e2-49af-8fd6-61eed60bd110.jpg)
-
 # VR-School
 
 VR School is an educational application created for providing immersive educational content for high school students in an interactive way. Different modules are created which covers various topics including physics, chemistry, biology and social studies. After the modules ends the application suggests related modules to the users for further viewing.
