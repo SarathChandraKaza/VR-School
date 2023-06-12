@@ -2,7 +2,6 @@
 
 VR School is an educational application created for providing immersive educational content for high school students in an interactive way. Different modules are created which covers various topics including physics, chemistry, biology and social studies. After the modules ends the application suggests related modules to the users for further viewing.
 
-
 # Working
 
 Once the user opens the application, they'll be viewing the intro page and once they get into the index page, they are given a chance to select the module which they wish to learn. 
@@ -19,13 +18,13 @@ After the module is done, the user goes into a recommendation page where related
 
 # Installation Procedure (Only for Oculus Quest 2 devices)
 
-* Download the apk from the drive link provided above.
+* Download the APK from the drive link provided above.
 
 * Open SideQuest application in your PC and set it up.
 
 * Connect the Oculus Quest 2 to your PC and SideQuest would automatically detect the device.
 
-* Click on the upload button and select the downloaded APK
+* Click on the upload button and select the downloaded APK.
 
 * Once the installation is completely done, wear the Oculus Quest 2 and go into "Unknown Devices" tab.
 
@@ -52,7 +51,6 @@ After the module is done, the user goes into a recommendation page where related
 
 ![4  Module 1 - Scene 3](https://user-images.githubusercontent.com/99459415/184802157-44966061-efb7-46e1-bf33-7498bc3c1285.png)
 
-
 ## Module 3 - Chemical Bonding
 
 ![ionic and metallic](https://github.com/SarathChandraKaza/VR-School/assets/99459415/5c9c363d-ad53-4fb1-bcea-73656a2cffd4)
@@ -62,7 +60,6 @@ After the module is done, the user goes into a recommendation page where related
 ## Module 4 - Food Chain
 
 ![foodchain](https://github.com/SarathChandraKaza/VR-School/assets/99459415/acbd05cf-bb22-45a3-a230-6a7aade7adef)
-
 
 ## Recommendation Page
 
@@ -74,6 +71,3 @@ Our University, Sastra Deemed to be University, Thanjavur, Tamilnadu has selecte
 # Improvements / Further Work
 * The recommendation system can be improved by adding more data into the dataset
 * Further modules can be designed and developed and added into the application.
-
-
-
