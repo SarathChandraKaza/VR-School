@@ -35,11 +35,13 @@ After the module is done, the user goes into a recommendation page where related
 
 # Snapshots
 
-## Homepage
+## Intro Page
 
 ![1  Intro Page](https://user-images.githubusercontent.com/99459415/184802092-28728f1a-fdb9-4c8b-9354-2726b62a896b.png)
 
-## Module 1 - Structure of Atoms
+## Index Page
+
+## Module 1 - Atoms
 
 ![2  Module 1 -  Scene 1](https://user-images.githubusercontent.com/99459415/184806013-6f8b4345-c2fc-45b2-a8cf-c8c4b23eaecd.png)
 
@@ -50,6 +52,12 @@ After the module is done, the user goes into a recommendation page where related
 ![SceneView](https://user-images.githubusercontent.com/99459415/184802203-ba689bc1-dbc8-4a70-85fa-8de781fc1767.png)
 
 ![6  Planets](https://user-images.githubusercontent.com/99459415/184805321-f5dff266-cad3-4b52-9f6d-935ec51e924d.jpg)
+
+## Module 3 - CHemical Bonding
+
+## Module 4 - Food Chain
+
+## Recommendation Page
 
 
 # Trivia
