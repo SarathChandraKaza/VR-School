@@ -33,6 +33,24 @@ After the module is done, the user goes into a recommendation page where related
 
 ## Click on the "VR School" application.
 
+# Snapshots
+
+## Homepage
+
+![1  Intro Page](https://user-images.githubusercontent.com/99459415/184802092-28728f1a-fdb9-4c8b-9354-2726b62a896b.png)
+
+## Module 1 - Structure of Atoms
+
+![2  Module 1 -  Scene 1](https://user-images.githubusercontent.com/99459415/184806013-6f8b4345-c2fc-45b2-a8cf-c8c4b23eaecd.png)
+
+![4  Module 1 - Scene 3](https://user-images.githubusercontent.com/99459415/184802157-44966061-efb7-46e1-bf33-7498bc3c1285.png)
+
+## Module 2 - Solar System
+
+![SceneView](https://user-images.githubusercontent.com/99459415/184802203-ba689bc1-dbc8-4a70-85fa-8de781fc1767.png)
+
+![6  Planets](https://user-images.githubusercontent.com/99459415/184805321-f5dff266-cad3-4b52-9f6d-935ec51e924d.jpg)
+
 
 # Trivia
 Our University, Sastra Deemed to be University, Thanjavur, Tamilnadu has selected our project and our application will be deployed in 75 Oculus Quest 2 devices which will be distributed to 75 high schools all across Tamilnadu.
