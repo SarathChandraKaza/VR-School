@@ -19,17 +19,17 @@ After the module is done, the user goes into a recommendation page where related
 
 # Installation Procedure (Only for Oculus Quest 2 devices)
 
-## Download the apk from the drive link provided above.
+* Download the apk from the drive link provided above.
 
-## Open SideQuest application in your PC and set it up.
+* Open SideQuest application in your PC and set it up.
 
-## Connect the Oculus Quest 2 to your PC and SideQuest would automatically detect the device.
+* Connect the Oculus Quest 2 to your PC and SideQuest would automatically detect the device.
 
-## Click on the upload button and select the downloaded APK
+* Click on the upload button and select the downloaded APK
 
-## Once the installation is completely done, wear the Oculus Quest 2 and go into "Unknown Devices" tab.
+* Once the installation is completely done, wear the Oculus Quest 2 and go into "Unknown Devices" tab.
 
-## Click on the "VR School" application.
+* Click on the "VR School" application.
 
 # Snapshots
 
